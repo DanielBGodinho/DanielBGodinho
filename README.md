@@ -19,7 +19,7 @@ Me chamo <strong>Daniel Borges</strong>, tenho 21 anos e sou estudante de <stron
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Daniel1-boop?tab=repositories">
+    <a href="https://github.com/DanielBGodinho?tab=repositories">
         <img 
             alt="Portfólio"
             title="Meu Portfólio"
