@@ -5,7 +5,7 @@
 Me chamo <strong>Daniel Borges</strong>, tenho 21 anos e sou estudante de <strong>Ciência da Computação</strong> na Newton Paiva. Sou apaixonado por tecnologia e tenho grande interesse em <strong>desenvolvimento de software</strong>. Atualmente trabalho na área de sistemas, utilizando <strong>TOTVS RM</strong> e <strong>Microsoft SQL Server</strong> para suporte, consultas e análise de dados.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/daniel-borges-godinho-173a82334/">
+    <a target="_blank" href="https://www.linkedin.com/in/daniel-borges-godinho-173a82334/">
         <img 
             alt="LinkedIn"
             title="Meu LinkedIn"
