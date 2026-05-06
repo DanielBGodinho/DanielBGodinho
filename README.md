@@ -63,3 +63,11 @@ Me chamo <strong>Daniel Borges</strong>, tenho 21 anos e sou estudante de <stron
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+<img 
+    aling="left"
+    alt="CSS"
+    tittle="CSS"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
+/>
